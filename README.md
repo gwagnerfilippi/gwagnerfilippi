@@ -5,7 +5,9 @@ I am a Data Analyst and Economist based in Brazil, with over 5 years of experien
 
 ## Interests
 **- Data Science and Machine Learning**: I work extensively with predictive modeling and am passionate about using supervised learning to convert raw data into strategic insights.
+
 **- Business Intelligence (BI)**: I specialize in developing dynamic dashboards and complex financial reports that serve as the foundation for strategic meetings with Boards of Directors and Executive Boards.
+
 **- Economics and Finance**: With a strong background in economics and experience in FP&A, I am keen on applying data analysis to financial modeling, pricing strategies, and performance optimization.
 
 ## Current Projects
